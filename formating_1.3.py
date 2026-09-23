@@ -11,3 +11,6 @@ for row in range(1, 11):
     for col in range(1, 11):
         print(f"{row*col:>4}", end="")
     print()
+# תווי בריחה
+print("Line 1\nLine 2\tIndented \\")
+print(r"C:\Users\net\new_folder")
