@@ -33,3 +33,4 @@ decrypted = caesar_decrypt(encrypted, shift_val)
 print(f"Original:  {original_text}")
 print(f"Encrypted: {encrypted}")  # יקבל 'DEF'
 print(f"Decrypted: {decrypted}")  # יחזיר 'ABC'
+
