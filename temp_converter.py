@@ -28,6 +28,8 @@ try:
     total_price_rounded = round(total_price, 2)
     print(f"The price with VAT is: {total_price_rounded}")
     print(type(total_price_rounded))
+    print(id(price))
 
 except ValueError:
     print("The input isn't correct")
+    
