@@ -56,3 +56,10 @@ numbers = [2, 5, 8, 12, 16, 23, 38, 56]
 print(binary_search(numbers, 23, 0, len(numbers) - 1))
 
 print(binary_search(numbers, 100, 0, len(numbers) - 1))
+
+
+def calculate_stats(*args):
+    if len(args)> 0:
+        return sum(args) / len(args), max(args), min(args)
+
+print(calculate_stats(10, 20, 30, 40, 50))
