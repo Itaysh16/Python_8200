@@ -18,3 +18,4 @@ years_to_test = [2024, 1900, 2000, 2023]
 
 for y in years_to_test:
     print(f"{y}: Nested -> {is_leap_nested(y)} | Inline -> {is_leap_inline(y)}")
+
