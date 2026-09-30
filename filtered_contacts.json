@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Israel Israeli",
+        "phone": "0501234567",
+        "city": "Tel Aviv"
+    },
+    {
+        "name": "Yossi Cohen",
+        "phone": "0545555555",
+        "city": "Tel Aviv"
+    },
+    {
+        "name": "Ron Arad",
+        "phone": "0584443332",
+        "city": "Tel Aviv"
+    }
+]

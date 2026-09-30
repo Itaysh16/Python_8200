@@ -1,0 +1,3 @@
+Learning python for 8200
+close the file authomaticly line by line
+Reading and writing datas are core capabillity
